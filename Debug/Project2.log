@@ -1,0 +1,3 @@
+﻿  Project2.c
+C:\Users\tomca\source\repos\Project2\Project2\Project2.c(32,27): warning C4101: 'test': unreferenced local variable
+  Project2.vcxproj -> C:\Users\tomca\source\repos\Project2\Debug\Project2.exe
